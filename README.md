@@ -5,4 +5,3 @@ The project focuses on bus object detection for visually impaired assistance usi
 - Detection of bus objects such as seats, stop buttons, stairs, and ticket machines
 - Makes travelling easier for blind people
   
-
